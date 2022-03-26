@@ -1,7 +1,7 @@
 # E-Commerce website backend
 
 ## Demonstration Screenshots
-![Demo Pic](./Media/Sequlize_mockup)
+![Demo Pic](./Media/Sequlize_mockup.jpg)
 
 ## Purpose
 Database for e-commerce website with routes for products, categories and tags.
